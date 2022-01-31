@@ -1,3 +1,3 @@
-export const API_KEY = "AIzaSyBw1hF7tnDwdvxnTXrYBE0P8QgdxG5qdro";
+export const API_KEY = "Paste Your GOOGLE SEARCH API KEY";
 
 export default API_KEY;
